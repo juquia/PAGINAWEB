@@ -1,0 +1,59 @@
+body{ 
+ color: white;
+  bxround: black;
+    margin: 2px;
+}
+
+header {
+  font-size: 50px;
+  color: #822192;
+  border-bottom: solid 2px white;
+  margin: 20px;
+  padding: 20px;
+    font-family: "Kalnia Glaze", serif;
+}
+
+
+.entrada{
+  font-family: "Open Sans", sans-serif;
+  background: #886FB3;
+  margin: 20px;
+  padding: 20px;
+  font-size: 25px;
+  display: flex;
+}
+
+.descricao{
+  font-size: 20px;
+}
+
+.primeiro{
+  margin-right:20px
+}
+
+img{
+  height: 200px;
+}
+
+.videos{
+  display: flex;
+  overflow-x: auto;
+  gap: 10px;
+}
+
+p{
+  text-align: justify;
+}
+
+.outros{
+  padding-left: 20px
+  padding-right
+}
+
+
+
+
+
+
+
+
